@@ -1,5 +1,6 @@
 # Research on Discord
 **All-in-one** **voice and text** **chat for gamers that's free, secure, and works on both desktop, Xbox and phone.  (Not on PS4 and switch yet)**
+By Xueming Sherry Xu
 
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_73D4C0FA1D17B009119B4C6243737CCE6E670D23BEF5848FF3E4996788067279_1537400254523_Discord-LogoWordmark-Color.png)
@@ -46,7 +47,7 @@ From system layout overview, we saw order of Discord system design - From top(ho
 
 
 ## Section UI
-![Discord spends much of its time listening to user feedback in order to enhance and update their app. (By Tea Chang -  https://medium.com/cup-of-tea/another-look-discord-7c6121e8b264)](https://cdn-images-1.medium.com/max/1600/1*SPVbZZIOVJIka9KwVNXTNw.png)
+![Discord spends much of its time listening to user feedback in order to enhance and update their app. (By Tea Chang -  https://medium.com/cup-of-tea/another-look-discord-7c6121e8b264)](https://cdn-images-1.medium.com/max/1600/1*SPVbZZIOVJIka9KwVNXTNw.png) (By Tea Chang -  https://medium.com/cup-of-tea/another-look-discord-7c6121e8b264)
 
 
 
