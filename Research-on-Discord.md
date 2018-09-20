@@ -203,9 +203,10 @@ Also, there is another model that called **Static Model.** Discord uses static m
 ![Delete Servers](https://d2mxuefqeaa7sj.cloudfront.net/s_73D4C0FA1D17B009119B4C6243737CCE6E670D23BEF5848FF3E4996788067279_1537479566692_Screen+Shot+2018-09-20+at+2.34.51+Sherry+Xu.png)
 ![Settings](https://d2mxuefqeaa7sj.cloudfront.net/s_73D4C0FA1D17B009119B4C6243737CCE6E670D23BEF5848FF3E4996788067279_1537479569834_Screen+Shot+2018-09-20+at+2.34.44+Sherry+Xu.png)
 
-
+<br/>
 
 - **Rich 21st century Text format**
+<br/>
 ![Discord allows different formats of text](https://d2mxuefqeaa7sj.cloudfront.net/s_73D4C0FA1D17B009119B4C6243737CCE6E670D23BEF5848FF3E4996788067279_1537479733113_Screen+Shot+2018-09-20+at+2.41.38+Sherry+Xu.png)
 ![Roblox announcement on Discord](https://d2mxuefqeaa7sj.cloudfront.net/s_73D4C0FA1D17B009119B4C6243737CCE6E670D23BEF5848FF3E4996788067279_1537479736110_Screen+Shot+2018-09-20+at+2.41.19+Sherry+Xu.png)
 
