@@ -174,6 +174,7 @@ Users can get to know their own status from those simple icons at first glance, 
 
 
 - **Finding right person to answer your question?**
+<br/>
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_73D4C0FA1D17B009119B4C6243737CCE6E670D23BEF5848FF3E4996788067279_1537478992257_Screen+Shot+2018-09-20+at+2.29.44+Sherry+Xu.png)
 
 
